@@ -11,13 +11,13 @@ body {
   line-height: 1.6;
 }
 header {
-  background: #007BFF;
+  background: #ee09a9;
   color: white;
   padding: 1em;
   text-align: center;
 }
 nav {
-  background: #0056b3;
+  background: #b3008c;
   text-align: center;
 }
 nav a {
@@ -55,7 +55,7 @@ nav a:hover {
 }
 
 .button {
-  background: #007BFF;
+  background:#ee09a9;
   color: white;
   padding: 0.5em 1em;
   border: none;
@@ -88,7 +88,7 @@ nav a:hover {
 .testimonial .author {
   margin-top: 1em;
   font-weight: bold;
-  color: #007BFF;
+  color: #ee09a9;
 }
 .testimonial .position {
   color: #777;
@@ -126,10 +126,11 @@ nav a:hover {
   font-size: 0.9em;
 }
 footer {
-  background:#007BFF;
+  background:#ee09a9;
   color: white;
   text-align: center;
-  padding: 1em;
+  padding:1rem;
+  margin-left: 0;
 }
 
 .stats {
@@ -141,7 +142,7 @@ footer {
 
 .stat h3 {
   font-size: 2.5rem;
-  color: #0d6efd;
+  color: #ee09a9;
 }
 
 form input, form textarea {
@@ -172,8 +173,8 @@ form button {
   text-decoration: none;
 }
 .contact {
-  background: #007BFF;
-  padding: 2em;
+  background: #ee09a9;
+  padding: 4em;
   text-align: center;
 
 
